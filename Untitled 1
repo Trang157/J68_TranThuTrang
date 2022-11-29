@@ -1,0 +1,20 @@
+cập nhập 
+
+	class SV	
+		hàm get set
+		
+	class tblMH
+	class tblDiem
+	quản lý cập nhật 
+		quản lý sv
+				+ them
+				+ sua
+				+ xoa
+				hien thi
+		quản lý môn học
+		quản lý điểm 
+	quản lý tìm kiếm 
+		tìm kiểm theo mã sv
+			sắp xếp theo tên sv 
+		tìm kiếm theo mã môn học 
+		
